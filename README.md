@@ -1,2 +1,2 @@
 # Quera-PHP
-My exercises in [ Quera Collage PHP course ].
+My exercises in [ Quera College PHP course ].

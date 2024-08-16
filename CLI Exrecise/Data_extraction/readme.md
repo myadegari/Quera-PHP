@@ -49,6 +49,5 @@ function boldEmails(string $text): string
 
 learn about RegEX and use it in php.
 
-[!NOTE]
-
+>[!NOTE]
 PHPDocs so similar to JSDoc

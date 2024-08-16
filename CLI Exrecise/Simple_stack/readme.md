@@ -30,7 +30,6 @@ echo empty($stack) ? 'YES' : 'NO';
 
 ?>
 ```
-[!NOTE]
-
+>[!NOTE]
 I learn about how using array like a stack in php and difference between `array_push` with `$array[] = $value`
 and `end(array)` is equivalent for `$array[count($array)-1]`.
